@@ -1,0 +1,251 @@
+[
+    {
+
+    "success": true,
+ 
+    "message": "List all games successfully",
+ 
+    "data": [
+ 
+        {
+ 
+            "id": 1,
+ 
+            "code": "C01",
+
+            "img": "assets/imresizer-1679380287124.png",
+ 
+            "title": "Mayan Mystery",
+ 
+            "description": "Solve puzzles, gather clues and solve the mystery to catch the thief!  Explore the ancient Maya culture in this hands-on archaeological adventure.  Will you be the one who proves worthy of reaching the mythical city of Ich’aak?",
+ 
+            "is_active": true,
+ 
+            "updated_by": null,         
+ 
+            "createdAt": "2022-02-08T08:08:45.978Z",
+ 
+            "updatedAt": "2023-02-20T08:22:42.306Z",
+ 
+            "tags": [
+ 
+                "Mythical",
+ 
+                "Adventure",
+ 
+                "Puzzle",
+ 
+                "Mystery"
+ 
+            ],
+ 
+            "dropDownYears": [
+ 
+                "Last 12 months"
+ 
+            ]
+ 
+        },
+ 
+        {
+ 
+            "id": 2,
+ 
+            "code": "C02",
+
+            "img": "assets/imresizer-1679380287124.png",
+
+            "title": "Mobile Legends: Bang Bang",
+ 
+            "description": "Mobile Legends: Bang Bang is a multiplayer online battle arena (MOBA) game designed for mobile phones. The game is free-to-play and is only monetized through in-game purchases like characters and skins. Each player can control a selectable character, called a Hero, with unique abilities and traits. There are six roles that define the main purpose of heroes: Tank, Marksman, Assassin, Fighter, Mage, and Support. These roles determine the responsibilities of players for their respective teams. Players can also set specific builds for heroes which include in-game items and emblems.",
+ 
+            "is_active": true,
+ 
+            "updated_by": null,
+ 
+            "createdAt": "2023-02-08T08:08:45.978Z",
+ 
+            "updatedAt": "2023-02-08T08:08:45.978Z",
+ 
+            "tags": [
+ 
+                "Story",
+ 
+                "Multiplayer",
+ 
+                "Swords",
+ 
+                "Battle"
+ 
+            ],
+ 
+            "dropDownYears": [
+ 
+                "Last 12 months"
+ 
+            ]
+ 
+        },
+ 
+        {
+ 
+            "id": 3,
+ 
+            "code": "C03",
+
+            "img": "assets/imresizer-1679380287124.png",
+
+            "title": "Gold Volcano",
+ 
+            "description": "Gold Volcano is a video slot played on a grid shaped like a volcano.Symbols rise into view. 4 or more horizontally/vertically connected symbols in a cluster award a win. Only the highest win in the cluster is paid. Winning symbols are removed. New symbols are provided to fill the empty spaces, via a symbol cascade. Multiple clusters of the same symbol that are not connected are paid separately",
+ 
+            "is_active": true,
+ 
+            "updated_by": null,           
+ 
+            "createdAt": "2021-02-08T08:08:45.978Z",
+ 
+            "updatedAt": "2023-02-20T08:22:42.307Z",
+ 
+            "tags": [
+ 
+                "Symbols",
+ 
+                "Pattern"
+ 
+            ],
+ 
+            "dropDownYears": [
+ 
+                "Last 12 months"
+ 
+            ]
+ 
+        },
+ 
+        {
+ 
+            "id": 4,
+ 
+            "code": "C04",
+ 
+            "img": "assets/imresizer-1679380287124.png",
+
+            "title": "Among Us",
+ 
+            "description": "Among Us is a multiplayer game for four to fifteen players.[12] Up to three players are randomly[13] and secretly chosen to be the Impostor(s) each round. As of 2021, four playable maps are available, a spaceship called \"The Skeld\", an office building called \"MIRA HQ\", a planet base called \"Polus\",[14] or \"The Airship\", a setting from Innersloths Henry Stickmin series.[15][16] The Crewmates can win the game one of two ways; either by completing all assigned tasks or by ejecting all Impostors. Impostors can likewise win in two ways; either by killing or ejecting all Crewmates,[e] or by sabotaging a critical system on the map (provided the Crewmates do not resolve it in time).",
+ 
+            "is_active": true,
+ 
+            "updated_by": null,           
+ 
+            "createdAt": "2023-02-08T08:08:45.978Z",
+ 
+            "updatedAt": "2023-02-08T08:08:45.978Z",
+ 
+            "tags": [
+ 
+                "Spaceship",
+ 
+                "Impostor",
+ 
+                "Multiplayer"
+ 
+            ],
+ 
+            "dropDownYears": [
+ 
+                "Last 12 months"
+ 
+            ]
+ 
+        },
+ 
+        {
+ 
+            "id": 5,
+ 
+            "code": "C05",
+
+            "img": "assets/imresizer-1679380287124.png",
+
+            "title": "Donkey Master",
+ 
+            "description": "Donkey Master is Online Multiplayer adaptation of your childhood favorite card game Donkey! Donkey card game is played in India in every household at family get-together and parties.",
+ 
+            "is_active": true,
+ 
+            "updated_by": null,          
+ 
+            "createdAt": "2020-02-08T08:08:45.978Z",
+ 
+            "updatedAt": "2023-02-20T08:22:42.308Z",
+ 
+            "tags": [
+ 
+                "Card",
+ 
+                "Multiplayer"
+ 
+            ],
+ 
+            "dropDownYears": [
+ 
+                "Last 12 months"
+ 
+            ]
+ 
+        },
+ 
+        {
+ 
+            "id": 6,
+ 
+            "code": "C06",
+
+            "img": "assets/imresizer-1679380287124.png",
+ 
+            "title": "PUBG",
+ 
+            "description": "PUBG is a player versus player shooter game in which up to one hundred players fight in a battle royale, a type of large-scale last man standing deathmatch where players fight to remain the last alive. Players can choose to enter the match solo, duo, or with a small team of up to four people.",
+ 
+            "is_active": true,
+ 
+            "updated_by": null,           
+ 
+            "createdAt": "2023-02-08T08:08:45.978Z",
+ 
+            "updatedAt": "2023-02-08T08:08:45.978Z",
+ 
+            "tags": [
+ 
+                "Shooting",
+ 
+                "Multiplayer",
+ 
+                "Battle"
+ 
+            ],
+ 
+            "dropDownYears": [
+ 
+                "Last 12 months"
+ 
+            ]
+ 
+        }
+ 
+    ],
+ 
+    "meta": {
+ 
+        "count": 6,
+ 
+        "total_page": 1,
+ 
+        "current_page": 1
+ 
+    }
+ 
+ }
+]
