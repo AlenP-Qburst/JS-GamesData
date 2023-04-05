@@ -1,0 +1,192 @@
+[
+    {
+
+    "success": true,
+
+    "message": "List all statistics successfully",
+
+    "data": {
+
+        "topPlayed": [
+
+            {
+
+                "game_code": "C06",
+
+                "count": 3,
+
+                "title": "PUBG",
+
+                "percentage": 27.3,
+
+                "current_rank": "1",
+
+                "previous_rank": "2",
+
+                "color": "red"
+
+            },
+
+            {
+
+                "game_code": "C05",
+
+                "count": 3,
+
+                "title": "Donkey Master",
+
+                "percentage": 27.3,
+
+                "current_rank": "2",
+
+                "previous_rank": "1",
+
+                "color": "green"
+
+            },
+
+            {
+
+                "game_code": "C03",
+
+                "count": 2,
+
+                "title": "Gold Volcano",
+
+                "percentage": 18.2,
+
+                "current_rank": "3",
+
+                "previous_rank": "5",
+
+                "color": "orange"
+
+            },
+
+            {
+
+                "game_code": "C02",
+
+                "count": 2,
+
+                "title": "Mobile Legends: Bang Bang",
+
+                "percentage": 18.2,
+
+                "current_rank": "4",
+
+                "previous_rank": "6",
+
+                "color": "yellow"
+
+            },
+
+            {
+
+                "game_code": "C01",
+
+                "count": 1,
+
+                "title": "Mayan Mystery",
+
+                "percentage": 9.1,
+
+                "current_rank": "5",
+
+                "previous_rank": "3", 
+
+                "color": "red"
+
+
+            }
+
+        ],
+
+        "topSession": [
+
+            {
+
+                "player_id": 5,
+
+                "player_name": "Player_5",
+
+                "hours": 1418,
+
+                "percentage": 55.9,
+
+                "current_rank": "1",
+
+                "previous_rank": "1"
+
+            },
+
+            {
+
+                "player_id": 4,
+
+                "player_name": "Player_4",
+
+                "hours": 840,
+
+                "percentage": 33.1,
+
+                "current_rank": "2",
+
+                "previous_rank": "3"
+
+            },
+
+            {
+
+                "player_id": 3,
+
+                "player_name": "Player_3",
+
+                "hours": 274,
+
+                "percentage": 10.8,
+
+                "current_rank": "3",
+
+                "previous_rank": "2"
+
+            },
+
+            {
+
+                "player_id": 2,
+
+                "player_name": "Player_2",
+
+                "hours": 3,
+
+                "percentage": 0.1,
+
+                "current_rank": "4",
+
+                "previous_rank": "4"
+
+            },
+
+            {
+
+                "player_id": 1,
+
+                "player_name": "Player_1",
+
+                "hours": 1,
+
+                "percentage": 0,
+
+                "current_rank": "5",
+
+                "previous_rank": "5"
+
+            }
+
+        ]
+
+    }
+
+}
+]

@@ -1,0 +1,16 @@
+{
+ "chart1" : {
+    "xValues" : ["PUBG", " Donkey Master", "Gold Volcano"],
+    "yValues" : [27.3, 27.3, 18.2],
+    "barColors" : ["#B983FF", "#94B3FD","#94DAFF"]
+},
+"chart2" : {
+    "xValues" : ["Player_5", " Player_4", "Player_3"],
+    "yValues" : [55.9, 33.1, 10.8],
+    "barColors" : [
+            "#B983FF",
+            "#94B3FD",
+            "#94DAFF"
+        ]
+}
+}
