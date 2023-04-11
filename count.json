@@ -19,15 +19,15 @@
                 },
                 {
                     "month": "Feb",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 0.5
                 },
                 {
                     "month": "March",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 2.0
                 },
                 {
                     "month": "April",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 1.0
                 },
                 {
                     "month": "May",
@@ -77,7 +77,7 @@
                 },
                 {
                     "month": "April",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 1.0
                 }
             ]
 
@@ -101,7 +101,7 @@
                 },
                 {
                     "month": "March",
-                    "current_user_session_count": 2
+                    "current_user_session_count": 1.0
                 },
                 {
                     "month": "April",
@@ -125,11 +125,11 @@
                 },
                 {
                     "month": "Sep",
-                    "current_user_session_count": 1.5
+                    "current_user_session_count": 1.0
                 },
                 {
                     "month": "Oct",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 2.0
                 },
                 {
                     "month": "Nov",
@@ -143,7 +143,7 @@
             "2023": [
                 {
                     "month": "Jan",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 2.0
                 },
                 {
                     "month": "Feb",
@@ -155,7 +155,7 @@
                 },
                 {
                     "month": "April",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 2.5
                 }
             ]
 
@@ -175,7 +175,7 @@
                 },
                 {
                     "month": "Feb",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 1.5
                 },
                 {
                     "month": "March",
@@ -191,7 +191,7 @@
                 },
                 {
                     "month": "Jun",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 2.0
                 },
                 {
                     "month": "July",
@@ -229,7 +229,7 @@
                 },
                 {
                     "month": "March",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 1.5
                 },
                 {
                     "month": "April",
@@ -249,11 +249,11 @@
             "2022": [
                 {
                     "month": "Jan",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 0.5
                 },
                 {
                     "month": "Feb",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 1.0
                 },
                 {
                     "month": "March",
@@ -261,7 +261,7 @@
                 },
                 {
                     "month": "April",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 1.0
                 },
                 {
                     "month": "May",
@@ -269,7 +269,7 @@
                 },
                 {
                     "month": "Jun",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 0.5
                 },
                 {
                     "month": "July",
@@ -281,7 +281,7 @@
                 },
                 {
                     "month": "Sep",
-                    "current_user_session_count": 1.5
+                    "current_user_session_count": 2.5
                 },
                 {
                     "month": "Oct",
@@ -293,13 +293,13 @@
                 },
                 {
                     "month": "Dec",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 1.5
                 }
             ],
             "2023": [
                 {
                     "month": "Jan",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 2.0
                 },
                 {
                     "month": "Feb",
@@ -311,7 +311,7 @@
                 },
                 {
                     "month": "April",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 1.0
                 }
             ]
 
@@ -327,11 +327,11 @@
             "2022": [
                 {
                     "month": "Jan",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 0.5
                 },
                 {
                     "month": "Feb",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 1.5
                 },
                 {
                     "month": "March",
@@ -355,7 +355,7 @@
                 },
                 {
                     "month": "Aug",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 1.0
                 },
                 {
                     "month": "Sep",
@@ -389,7 +389,7 @@
                 },
                 {
                     "month": "April",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 2.0
                 }
             ]
 
@@ -409,7 +409,7 @@
                 },
                 {
                     "month": "Feb",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 2.5
                 },
                 {
                     "month": "March",
@@ -425,7 +425,7 @@
                 },
                 {
                     "month": "Jun",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 1.5
                 },
                 {
                     "month": "July",
@@ -441,7 +441,7 @@
                 },
                 {
                     "month": "Oct",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 3.0
                 },
                 {
                     "month": "Nov",
@@ -449,7 +449,7 @@
                 },
                 {
                     "month": "Dec",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 2.5
                 }
             ],
             "2023": [
@@ -463,11 +463,11 @@
                 },
                 {
                     "month": "March",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 2.0
                 },
                 {
                     "month": "April",
-                    "current_user_session_count": 0
+                    "current_user_session_count": 1.0
                 }
             ]
 
