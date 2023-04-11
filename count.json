@@ -160,6 +160,318 @@
             ]
 
         }
+    },
+    {
+
+        "game_code": "C04",
+        "game_title": "Among Us",
+        "start_year" : 2022,
+        "end_year": 2023,
+        "session_count_details": {
+            "2022": [
+                {
+                    "month": "Jan",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Feb",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "March",
+                    "current_user_session_count": 2
+                },
+                {
+                    "month": "April",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "May",
+                    "current_user_session_count": 3.0
+                },
+                {
+                    "month": "Jun",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "July",
+                    "current_user_session_count": 1.0
+                },
+                {
+                    "month": "Aug",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Sep",
+                    "current_user_session_count": 1.5
+                },
+                {
+                    "month": "Oct",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Nov",
+                    "current_user_session_count": 1.0
+                },
+                {
+                    "month": "Dec",
+                    "current_user_session_count": 0
+                }
+            ],
+            "2023": [
+                {
+                    "month": "Jan",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Feb",
+                    "current_user_session_count": 1.5
+                },
+                {
+                    "month": "March",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "April",
+                    "current_user_session_count": 0
+                }
+            ]
+
+        }
+    },
+    {
+
+        "game_code": "C03",
+        "game_title": "Gold Volcano",
+        "start_year" : 2022,
+        "end_year": 2023,
+        "session_count_details": {
+            "2022": [
+                {
+                    "month": "Jan",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Feb",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "March",
+                    "current_user_session_count": 2
+                },
+                {
+                    "month": "April",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "May",
+                    "current_user_session_count": 3.0
+                },
+                {
+                    "month": "Jun",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "July",
+                    "current_user_session_count": 1.0
+                },
+                {
+                    "month": "Aug",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Sep",
+                    "current_user_session_count": 1.5
+                },
+                {
+                    "month": "Oct",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Nov",
+                    "current_user_session_count": 1.0
+                },
+                {
+                    "month": "Dec",
+                    "current_user_session_count": 0
+                }
+            ],
+            "2023": [
+                {
+                    "month": "Jan",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Feb",
+                    "current_user_session_count": 1.5
+                },
+                {
+                    "month": "March",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "April",
+                    "current_user_session_count": 0
+                }
+            ]
+
+        }
+    },
+    {
+
+        "game_code": "C02",
+        "game_title": "Mobile Legends: Bang Bang",
+        "start_year" : 2022,
+        "end_year": 2023,
+        "session_count_details": {
+            "2022": [
+                {
+                    "month": "Jan",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Feb",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "March",
+                    "current_user_session_count": 2
+                },
+                {
+                    "month": "April",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "May",
+                    "current_user_session_count": 3.0
+                },
+                {
+                    "month": "Jun",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "July",
+                    "current_user_session_count": 1.0
+                },
+                {
+                    "month": "Aug",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Sep",
+                    "current_user_session_count": 1.5
+                },
+                {
+                    "month": "Oct",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Nov",
+                    "current_user_session_count": 1.0
+                },
+                {
+                    "month": "Dec",
+                    "current_user_session_count": 0
+                }
+            ],
+            "2023": [
+                {
+                    "month": "Jan",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Feb",
+                    "current_user_session_count": 1.5
+                },
+                {
+                    "month": "March",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "April",
+                    "current_user_session_count": 0
+                }
+            ]
+
+        }
+    },
+    {
+
+        "game_code": "C01",
+        "game_title": "Mayan Mystery",
+        "start_year" : 2022,
+        "end_year": 2023,
+        "session_count_details": {
+            "2022": [
+                {
+                    "month": "Jan",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Feb",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "March",
+                    "current_user_session_count": 2
+                },
+                {
+                    "month": "April",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "May",
+                    "current_user_session_count": 3.0
+                },
+                {
+                    "month": "Jun",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "July",
+                    "current_user_session_count": 1.0
+                },
+                {
+                    "month": "Aug",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Sep",
+                    "current_user_session_count": 1.5
+                },
+                {
+                    "month": "Oct",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Nov",
+                    "current_user_session_count": 1.0
+                },
+                {
+                    "month": "Dec",
+                    "current_user_session_count": 0
+                }
+            ],
+            "2023": [
+                {
+                    "month": "Jan",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "Feb",
+                    "current_user_session_count": 1.5
+                },
+                {
+                    "month": "March",
+                    "current_user_session_count": 0
+                },
+                {
+                    "month": "April",
+                    "current_user_session_count": 0
+                }
+            ]
+
+        }
     }
     ]
 
