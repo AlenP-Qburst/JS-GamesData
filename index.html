@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300;400;500;600;700&family=Montserrat:wght@500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+    <title>Games</title>
+  </head>
+  <body>
+    <div class="global-width">
+      <div class="left-div">
+        <h1>Game Center</h1>
+      </div>
+      <div class="container">
+        <header>
+          <h2 id="header">Game Center</h2>
+        </header>
+        <main>
+          <section class="dashboard">
+            <section>
+              <h3>Statistics</h3>
+              <div class="dashboard-wrapper">
+                <div class="dashboard-left">
+                  <h3 class="heading-bg">Top Played</h3>
+                  <div class="doughnutChart">
+                    <div class="playedChart">
+                      <canvas id="myChart" style="width:100%;max-width:200px"></canvas>
+                    </div>
+                    <ul id="topPlayed"></ul>
+                  </div>
+                </div>
+                <div class="dashboard-right">
+                  <h3 class="heading-bg">Top Session</h3>
+                  <div class="doughnutChart">
+                    <div class="playedChart">
+                      <canvas id="myChartSec" style="width:100%;max-width:200px"></canvas>
+                    </div>
+                    <ul id="topSession"></ul>
+                  </div>
+                </div>
+            </section>
+            
+
+            <section class="search-container">
+                <h3>Library</h3>
+                <div class="search-wrapper">
+                    <div class="library-icons">
+                        <img id="listView" onclick="myListFunction()" src="./assets/list.png" alt="" height="40px">
+                        <img id="gridView" onclick="myGridFunction()" src="./assets/apps.png" alt="" height="40px">
+                    </div>
+                    <div class="input-wrapper">
+                        <img src="./assets/icons8-magnifying-glass-64.png" alt="" height="20px">
+                        <input id="myInput" type="text" onkeyup="searchTable()" placeholder="Search for the game">
+                    </div>
+                </div>
+            </section>
+            <section class="table-wrapper">
+              <table id="gameList">
+                <thead>
+                  <tr>
+                    <th>&nbsp;</th>
+                    <th>Game Name</th>
+                    <th>Tags</th>
+                    <th>Modified</th>
+                    <th>Actions</th>
+                  </tr>
+                </thead>
+                <tbody id="tableBody"></tbody>
+              </table>
+              <div id="noResults">No Data Available</div>
+              <div id="gridList">
+                <div id="card"></div>
+              </div>
+            </section>
+          </section>
+          <section class="detail-box" style="display: none;">
+            <span class="back-btn" onclick="backToDashboard()">Back</span>
+            <div id="gameDetail"></div>
+            <form>
+              <select id="selectByMonth">
+                <option value="12" selected="selected">Last 12 months</option>
+                <option value="8">Last 8 months</option>
+                <option value="6">Last 6 months</option>
+              </select>
+            </form>
+            <canvas id="gameGraph" width="700"></canvas>
+          </section>
+        </main>
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
